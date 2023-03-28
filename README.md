@@ -40,7 +40,7 @@ Proje Görselleri
 
 -Odunc Kitap İşlemi
 
-![Ekran görüntüsü 2023-03-28 145451](https://user-images.githubusercontent.com/117596243/228230858-0d6a8303-1064-4d0c-b828-2314d04b71ea.png)
+![Ekran görüntüsü 2023-03-28 145500](https://user-images.githubusercontent.com/117596243/228232065-592f457c-b554-4a6a-86ce-3e4ed1ddb5a7.png)
 
 -Kod
 
